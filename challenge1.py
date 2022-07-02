@@ -30,4 +30,4 @@ def solution(area):
 
         
 solution(12)
-solution(15324)
+#solution(15324)
